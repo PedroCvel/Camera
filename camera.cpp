@@ -16,6 +16,8 @@ int main() {
 		return -1;
 	}
 
+	cap.set(cv::CAP_PROP_AUTOFOCUS, 0);
+
 	int imageCount=0;
 	const int maxImages=150;
 
