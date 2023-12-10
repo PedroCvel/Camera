@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702252225,,"wq"
+|2,0,1702252464,,"wq"
 :q
 |2,0,1701804050,,"q"
 
@@ -32,36 +32,52 @@
 # Registers:
 
 # File marks:
-'0  25  31  /tmp/crontab.QWu8J7/crontab
-|4,48,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
-'1  3  22  ~/automate_commit.sh
-|4,49,3,22,1702252054,"~/automate_commit.sh"
-'2  4  0  ~/script.bash
-|4,50,4,0,1702251977,"~/script.bash"
-'3  20  0  ~/camera.cpp
-|4,51,20,0,1702251850,"~/camera.cpp"
-'4  12  22  ~/camera.cpp
-|4,52,12,22,1701805673,"~/camera.cpp"
+'0  25  66  /tmp/crontab.RY76oi/crontab
+|4,48,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+'1  25  31  /tmp/crontab.QWu8J7/crontab
+|4,49,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+'2  3  22  ~/automate_commit.sh
+|4,50,3,22,1702252054,"~/automate_commit.sh"
+'3  4  0  ~/script.bash
+|4,51,4,0,1702251977,"~/script.bash"
+'4  20  0  ~/camera.cpp
+|4,52,20,0,1702251850,"~/camera.cpp"
 '5  12  22  ~/camera.cpp
 |4,53,12,22,1701805673,"~/camera.cpp"
-'6  22  8  ~/camera.cpp
-|4,54,22,8,1701805593,"~/camera.cpp"
+'6  12  22  ~/camera.cpp
+|4,54,12,22,1701805673,"~/camera.cpp"
 '7  22  8  ~/camera.cpp
 |4,55,22,8,1701805593,"~/camera.cpp"
-'8  20  8  ~/camera.cpp
-|4,56,20,8,1701805593,"~/camera.cpp"
+'8  22  8  ~/camera.cpp
+|4,56,22,8,1701805593,"~/camera.cpp"
 '9  20  8  ~/camera.cpp
 |4,57,20,8,1701805593,"~/camera.cpp"
 
 # Jumplist (newest first):
+-'  25  66  /tmp/crontab.RY76oi/crontab
+|4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+-'  1  0  /tmp/crontab.RY76oi/crontab
+|4,39,1,0,1702252415,"/tmp/crontab.RY76oi/crontab"
 -'  25  31  /tmp/crontab.QWu8J7/crontab
 |4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
 -'  1  2  /tmp/crontab.QWu8J7/crontab
 |4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
 -'  3  22  ~/automate_commit.sh
 |4,39,3,22,1702252054,"~/automate_commit.sh"
 -'  3  22  ~/automate_commit.sh
 |4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  1  0  ~/automate_commit.sh
+|4,39,1,0,1702252020,"~/automate_commit.sh"
+-'  1  0  ~/automate_commit.sh
+|4,39,1,0,1702252020,"~/automate_commit.sh"
 -'  1  0  ~/automate_commit.sh
 |4,39,1,0,1702252020,"~/automate_commit.sh"
 -'  1  0  ~/automate_commit.sh
@@ -74,6 +90,22 @@
 |4,39,4,0,1702251977,"~/script.bash"
 -'  4  0  ~/script.bash
 |4,39,4,0,1702251977,"~/script.bash"
+-'  4  0  ~/script.bash
+|4,39,4,0,1702251977,"~/script.bash"
+-'  4  0  ~/script.bash
+|4,39,4,0,1702251977,"~/script.bash"
+-'  4  0  ~/script.bash
+|4,39,4,0,1702251977,"~/script.bash"
+-'  4  0  ~/script.bash
+|4,39,4,0,1702251977,"~/script.bash"
+-'  1  0  ~/script.bash
+|4,39,1,0,1702251920,"~/script.bash"
+-'  1  0  ~/script.bash
+|4,39,1,0,1702251920,"~/script.bash"
+-'  1  0  ~/script.bash
+|4,39,1,0,1702251920,"~/script.bash"
+-'  1  0  ~/script.bash
+|4,39,1,0,1702251920,"~/script.bash"
 -'  1  0  ~/script.bash
 |4,39,1,0,1702251920,"~/script.bash"
 -'  1  0  ~/script.bash
@@ -98,6 +130,22 @@
 |4,39,20,0,1702251850,"~/camera.cpp"
 -'  20  0  ~/camera.cpp
 |4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702251850,"~/camera.cpp"
 -'  12  22  ~/camera.cpp
 |4,39,12,22,1702251809,"~/camera.cpp"
 -'  12  22  ~/camera.cpp
@@ -114,6 +162,38 @@
 |4,39,12,22,1702251809,"~/camera.cpp"
 -'  12  22  ~/camera.cpp
 |4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1702251809,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
+-'  12  22  ~/camera.cpp
+|4,39,12,22,1701805673,"~/camera.cpp"
 -'  12  22  ~/camera.cpp
 |4,39,12,22,1701805673,"~/camera.cpp"
 -'  12  22  ~/camera.cpp
@@ -162,100 +242,27 @@
 |4,39,22,8,1701805663,"~/camera.cpp"
 -'  20  8  ~/camera.cpp
 |4,39,20,8,1701805663,"~/camera.cpp"
+-'  22  8  ~/camera.cpp
+|4,39,22,8,1701805663,"~/camera.cpp"
 -'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
+|4,39,20,8,1701805663,"~/camera.cpp"
+-'  22  8  ~/camera.cpp
+|4,39,22,8,1701805663,"~/camera.cpp"
 -'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
+|4,39,20,8,1701805663,"~/camera.cpp"
+-'  22  8  ~/camera.cpp
+|4,39,22,8,1701805663,"~/camera.cpp"
 -'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
--'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
--'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
--'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
--'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
--'  20  8  ~/camera.cpp
-|4,39,20,8,1701805593,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  55  0  ~/camera.cpp
-|4,39,55,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805578,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  53  0  ~/camera.cpp
-|4,39,53,0,1701805481,"~/camera.cpp"
--'  1  0  ~/camera.cpp
-|4,39,1,0,1701804735,"~/camera.cpp"
--'  1  0  ~/camera.cpp
-|4,39,1,0,1701804735,"~/camera.cpp"
--'  1  0  ~/camera.cpp
-|4,39,1,0,1701804735,"~/camera.cpp"
--'  1  0  ~/camera.cpp
-|4,39,1,0,1701804735,"~/camera.cpp"
--'  1  0  ~/camera.cpp
-|4,39,1,0,1701804735,"~/camera.cpp"
--'  1  0  ~/camera.cpp
-|4,39,1,0,1701804735,"~/camera.cpp"
+|4,39,20,8,1701805663,"~/camera.cpp"
 
 # History of marks within files (newest to oldest):
+
+> /tmp/crontab.RY76oi/crontab
+	*	1702252462	0
+	"	25	66
+	^	25	67
+	.	25	66
+	+	25	66
 
 > /tmp/crontab.QWu8J7/crontab
 	*	1702252224	0
