@@ -262,3 +262,10 @@ POST git-receive-pack (461 bytes)
 To https://github.com/PedroCvel/Camera.git
    a887e2d..560711c  main -> main
 updating local tracking ref 'refs/remotes/origin/main'
+On branch main
+nothing to commit, working tree clean
+Pushing to https://github.com/PedroCvel/Camera.git
+To https://github.com/PedroCvel/Camera.git
+ = [up to date]      main -> main
+updating local tracking ref 'refs/remotes/origin/main'
+Everything up-to-date
