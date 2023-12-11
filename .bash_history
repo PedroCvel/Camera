@@ -340,3 +340,7 @@ cat ~/log_automatic_commit.txt
 git log
 ./camera 
 shutdown now
+./camera 
+./automate_commit.sh 
+./automate_commit.sh 
+shutdown now

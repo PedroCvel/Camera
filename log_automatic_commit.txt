@@ -229,3 +229,7 @@ updating local tracking ref 'refs/remotes/origin/main'
  rewrite face_9.jpg (98%)
 Pushing to https://github.com/PedroCvel/Camera.git
 fatal: could not read Password for 'https://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@github.com': No such device or address
+On branch main
+nothing to commit, working tree clean
+Pushing to https://github.com/PedroCvel/Camera.git
+fatal: could not read Password for 'https://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@github.com': No such device or address
