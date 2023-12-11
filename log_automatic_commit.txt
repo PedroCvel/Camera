@@ -233,3 +233,7 @@ On branch main
 nothing to commit, working tree clean
 Pushing to https://github.com/PedroCvel/Camera.git
 fatal: could not read Password for 'https://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@github.com': No such device or address
+[main 1b508c3] Commit automatico
+ 2 files changed, 8 insertions(+)
+Pushing to https://github.com/PedroCvel/Camera.git
+fatal: could not read Password for 'https://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@github.com': No such device or address
