@@ -21,6 +21,8 @@ int main() {
 	int imageCount=0;
 	const int maxImages=150;
 
+	double fps;
+	int64_t lastTime = cv::getTickCount();
 	while(true){
 		cv::Mat frame;
 		cap>>frame;
@@ -44,6 +46,13 @@ int main() {
 
 			imageCount++;
 		}
+
+		int64_t currentTime = cv::getTickCount();
+		double elapsedTime= (currentTime - lastTime) / cv:getTickFrequency();
+		fps= 1.0 / elapsedTime;
+		lastTime=currentTime;
+
+		std::cout << "FPS: " << static_cast<int>(fps)<<std::endl;
 		
 		if(cv::waitKey(1) == 'q') {
 			break;
