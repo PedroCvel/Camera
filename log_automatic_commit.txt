@@ -245,3 +245,13 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+On branch main
+nothing to commit, working tree clean
+Pushing to https://github.com/PedroCvel/Cam.git
+To https://github.com/PedroCvel/Cam.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/PedroCvel/Cam.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
