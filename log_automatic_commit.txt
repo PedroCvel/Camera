@@ -305,3 +305,20 @@ POST git-receive-pack (167378 bytes)
 To https://github.com/PedroCvel/Camera.git
    00e5744..da3ab68  main -> main
 updating local tracking ref 'refs/remotes/origin/main'
+[main c270751] Commit automatico
+ 11 files changed, 22 insertions(+)
+ create mode 100644 .camera.cpp.swp
+ create mode 100644 face_14.jpg
+ create mode 100644 face_15.jpg
+ create mode 100644 face_16.jpg
+ create mode 100644 face_17.jpg
+ create mode 100644 face_18.jpg
+ create mode 100644 face_19.jpg
+ create mode 100644 face_20.jpg
+ create mode 100644 face_21.jpg
+ create mode 100644 face_22.jpg
+Pushing to https://github.com/PedroCvel/Camera.git
+POST git-receive-pack (94919 bytes)
+To https://github.com/PedroCvel/Camera.git
+   da3ab68..c270751  main -> main
+updating local tracking ref 'refs/remotes/origin/main'
