@@ -22,6 +22,7 @@ int main() {
 	const int maxImages=150;
 
 	double fps;
+	int frames=0;
 	int64_t lastTime = cv::getTickCount();
 	while(true){
 		cv::Mat frame;
@@ -49,8 +50,9 @@ int main() {
 
 		int64_t currentTime = cv::getTickCount();
 		double elapsedTime= (currentTime - lastTime) / cv::getTickFrequency();
-		fps= 1.0 / elapsedTime;
+		fps= static_cast<double>(frames) / elapsedTime;
 		lastTime=currentTime;
+		frames++;
 
 		std::cout << "FPS: " << static_cast<int>(fps)<<std::endl;
 		
