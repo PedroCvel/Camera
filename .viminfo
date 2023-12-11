@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1702320769,,"wq"
+|2,0,1702320841,,"wq"
 :q
 |2,0,1701804050,,"q"
 
@@ -32,38 +32,48 @@
 # Registers:
 
 # File marks:
-'0  55  58  ~/camera.cpp
-|4,48,55,58,1702320769,"~/camera.cpp"
-'1  29  0  ~/camera.cpp
-|4,49,29,0,1702320233,"~/camera.cpp"
-'2  27  0  ~/camera.cpp
-|4,50,27,0,1702320233,"~/camera.cpp"
-'3  25  66  /tmp/crontab.RY76oi/crontab
-|4,51,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
-'4  25  31  /tmp/crontab.QWu8J7/crontab
-|4,52,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
-'5  3  22  ~/automate_commit.sh
-|4,53,3,22,1702252054,"~/automate_commit.sh"
-'6  4  0  ~/script.bash
-|4,54,4,0,1702251977,"~/script.bash"
-'7  20  0  ~/camera.cpp
-|4,55,20,0,1702251850,"~/camera.cpp"
-'8  20  0  ~/camera.cpp
-|4,56,20,0,1702251850,"~/camera.cpp"
-'9  20  0  ~/camera.cpp
-|4,57,20,0,1702251850,"~/camera.cpp"
+'0  51  52  ~/camera.cpp
+|4,48,51,52,1702320841,"~/camera.cpp"
+'1  55  58  ~/camera.cpp
+|4,49,55,58,1702320769,"~/camera.cpp"
+'2  55  58  ~/camera.cpp
+|4,50,55,58,1702320769,"~/camera.cpp"
+'3  29  0  ~/camera.cpp
+|4,51,29,0,1702320233,"~/camera.cpp"
+'4  27  0  ~/camera.cpp
+|4,52,27,0,1702320233,"~/camera.cpp"
+'5  29  0  ~/camera.cpp
+|4,53,29,0,1702320233,"~/camera.cpp"
+'6  27  0  ~/camera.cpp
+|4,54,27,0,1702320233,"~/camera.cpp"
+'7  25  66  /tmp/crontab.RY76oi/crontab
+|4,55,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+'8  25  31  /tmp/crontab.QWu8J7/crontab
+|4,56,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+'9  3  22  ~/automate_commit.sh
+|4,57,3,22,1702252054,"~/automate_commit.sh"
 
 # Jumplist (newest first):
+-'  51  52  ~/camera.cpp
+|4,39,51,52,1702320841,"~/camera.cpp"
+-'  55  58  ~/camera.cpp
+|4,39,55,58,1702320831,"~/camera.cpp"
 -'  55  58  ~/camera.cpp
 |4,39,55,58,1702320769,"~/camera.cpp"
 -'  29  0  ~/camera.cpp
 |4,39,29,0,1702320306,"~/camera.cpp"
+-'  29  0  ~/camera.cpp
+|4,39,29,0,1702320306,"~/camera.cpp"
+-'  27  0  ~/camera.cpp
+|4,39,27,0,1702320233,"~/camera.cpp"
 -'  27  0  ~/camera.cpp
 |4,39,27,0,1702320233,"~/camera.cpp"
 -'  20  0  ~/camera.cpp
 |4,39,20,0,1702319837,"~/camera.cpp"
 -'  20  0  ~/camera.cpp
 |4,39,20,0,1702319837,"~/camera.cpp"
+-'  20  0  ~/camera.cpp
+|4,39,20,0,1702319837,"~/camera.cpp"
 -'  25  66  /tmp/crontab.RY76oi/crontab
 |4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
 -'  25  66  /tmp/crontab.RY76oi/crontab
@@ -72,6 +82,22 @@
 |4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
 -'  25  66  /tmp/crontab.RY76oi/crontab
 |4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+-'  25  66  /tmp/crontab.RY76oi/crontab
+|4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+-'  25  66  /tmp/crontab.RY76oi/crontab
+|4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+-'  25  66  /tmp/crontab.RY76oi/crontab
+|4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+-'  25  66  /tmp/crontab.RY76oi/crontab
+|4,39,25,66,1702252464,"/tmp/crontab.RY76oi/crontab"
+-'  1  0  /tmp/crontab.RY76oi/crontab
+|4,39,1,0,1702252415,"/tmp/crontab.RY76oi/crontab"
+-'  1  0  /tmp/crontab.RY76oi/crontab
+|4,39,1,0,1702252415,"/tmp/crontab.RY76oi/crontab"
+-'  1  0  /tmp/crontab.RY76oi/crontab
+|4,39,1,0,1702252415,"/tmp/crontab.RY76oi/crontab"
+-'  1  0  /tmp/crontab.RY76oi/crontab
+|4,39,1,0,1702252415,"/tmp/crontab.RY76oi/crontab"
 -'  1  0  /tmp/crontab.RY76oi/crontab
 |4,39,1,0,1702252415,"/tmp/crontab.RY76oi/crontab"
 -'  1  0  /tmp/crontab.RY76oi/crontab
@@ -96,6 +122,38 @@
 |4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
 -'  25  31  /tmp/crontab.QWu8J7/crontab
 |4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  25  31  /tmp/crontab.QWu8J7/crontab
+|4,39,25,31,1702252225,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
+-'  1  2  /tmp/crontab.QWu8J7/crontab
+|4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
 -'  1  2  /tmp/crontab.QWu8J7/crontab
 |4,39,1,2,1702252157,"/tmp/crontab.QWu8J7/crontab"
 -'  1  2  /tmp/crontab.QWu8J7/crontab
@@ -144,6 +202,38 @@
 |4,39,3,22,1702252054,"~/automate_commit.sh"
 -'  3  22  ~/automate_commit.sh
 |4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
+-'  3  22  ~/automate_commit.sh
+|4,39,3,22,1702252054,"~/automate_commit.sh"
 -'  1  0  ~/automate_commit.sh
 |4,39,1,0,1702252020,"~/automate_commit.sh"
 -'  1  0  ~/automate_commit.sh
@@ -164,104 +254,14 @@
 |4,39,1,0,1702252020,"~/automate_commit.sh"
 -'  1  0  ~/automate_commit.sh
 |4,39,1,0,1702252020,"~/automate_commit.sh"
--'  1  0  ~/automate_commit.sh
-|4,39,1,0,1702252020,"~/automate_commit.sh"
--'  1  0  ~/automate_commit.sh
-|4,39,1,0,1702252020,"~/automate_commit.sh"
--'  1  0  ~/automate_commit.sh
-|4,39,1,0,1702252020,"~/automate_commit.sh"
--'  1  0  ~/automate_commit.sh
-|4,39,1,0,1702252020,"~/automate_commit.sh"
--'  1  0  ~/automate_commit.sh
-|4,39,1,0,1702252020,"~/automate_commit.sh"
--'  1  0  ~/automate_commit.sh
-|4,39,1,0,1702252020,"~/automate_commit.sh"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  4  0  ~/script.bash
-|4,39,4,0,1702251977,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
--'  1  0  ~/script.bash
-|4,39,1,0,1702251920,"~/script.bash"
 
 # History of marks within files (newest to oldest):
 
 > ~/camera.cpp
-	*	1702320768	0
-	"	55	58
-	^	55	59
-	.	55	58
+	*	1702320840	0
+	"	51	52
+	^	51	53
+	.	51	52
 	+	5	12
 	+	64	0
 	+	22	9
@@ -269,6 +269,7 @@
 	+	20	0
 	+	25	38
 	+	55	58
+	+	51	52
 
 > /tmp/crontab.RY76oi/crontab
 	*	1702252462	0

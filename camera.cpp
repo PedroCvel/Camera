@@ -48,7 +48,7 @@ int main() {
 		}
 
 		int64_t currentTime = cv::getTickCount();
-		double elapsedTime= (currentTime - lastTime) / cv:getTickFrequency();
+		double elapsedTime= (currentTime - lastTime) / cv::getTickFrequency();
 		fps= 1.0 / elapsedTime;
 		lastTime=currentTime;
 
